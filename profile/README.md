@@ -1,4 +1,4 @@
-# 🐀 Organisation GamagoRat - Exemples de projets
+# 🐀 Organisation GamagoRat
 
 Bienvenue sur le dépôt de l'organisation **GamagoRat** ! 🎮
 
