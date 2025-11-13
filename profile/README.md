@@ -30,6 +30,7 @@ L'organisation regroupe :
 
 - ⚙️ Des **systèmes QoL** (Quality of Life) pour faciliter le développement  
 - 🧩 Des **plugins et outils** destinés à simplifier la vie des développeurs  
+- 🔗 Des **liens** pour partages vos projet ou des bon tuto / docs
 
 Chaque projet est fourni avec une **documentation complète** pour vous aider à comprendre et à réutiliser le code.
 
@@ -39,7 +40,7 @@ Chaque projet est fourni avec une **documentation complète** pour vous aider à
 
 Pour simplifier la navigation, tous les dépôts suivent un **nommage uniforme** :  
 
-```
+```test
 
 moteur-nomduprojet
 
@@ -61,7 +62,8 @@ Pour contribuer, merci de respecter :
 1. ✅ Les **règles générales de contribution** : pull requests claires, code lisible, documentation fournie.  
 2. 🐀 L’**intention de l’organisation** : les projets doivent rester dans l’esprit de **QoL, plugins ou outils utiles** pour faciliter le développement et l’apprentissage.
 
-> 💡 **Tips du Rat** :  
+> 💡 **Tips du Rat** :
+>
 > - Proposez des outils ou systèmes qui rendent le développement plus simple ou plus fun  
 > - Documentez bien vos projets pour qu’ils soient facilement réutilisables  
 > - Les contributions originales ou améliorant l’existant sont les bienvenues  
